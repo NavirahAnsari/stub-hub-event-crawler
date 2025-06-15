@@ -1,7 +1,5 @@
 # stub-hub-event-crawler
 
-# StubHub Event Scraper
-
 This project is a Python-based web scraper using Scrapy to collect event data from the StubHub website. It stores each event in MongoDB and saves raw response data in JSON files.
 
 ---
